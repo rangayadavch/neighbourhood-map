@@ -1,8 +1,8 @@
-# neighbourhood-map
+# neighbourhood-map-project
 
 ## About
 
-This is the fifth project for the Udacity Full Stack Nanodegree. The Neighborhood Map project involves developing a single page application with the KnockoutJS framework and various API's.  KnockoutJS allows the project to be organized with the MVVM pattern.
+This is my fifth project in fullstack nanodegree udacity course.The project is neighbourhood map.The places of my interests.
 
 ## Skills used for this project
 - JavaScript
@@ -11,6 +11,7 @@ This is the fifth project for the Udacity Full Stack Nanodegree. The Neighborhoo
 - CSS
 - KnockoutJS
 - Google Maps API
+-Google wikipedia API
 
 ### How to Use
 1. Clicking on a marker directly
